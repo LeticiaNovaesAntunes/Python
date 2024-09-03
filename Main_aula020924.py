@@ -2,7 +2,7 @@ import csv
 import os
 import platform
 
-
+## Letici Novaes, Walquiria Gonçalves e Natalia Dias Fernandes
 
 def menu():
    print("1 - Buscar arquivos")
